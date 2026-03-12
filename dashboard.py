@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 # כותרת הדאשבורד
-st.title("Nathan's Dashboard")
+st.title("Nir's Dashboard num #33")
 
 # יצירת נתונים מדומים
 data = {
